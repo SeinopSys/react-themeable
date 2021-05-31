@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/seinopsys/react-themeable/master.svg?style=flat-square)](https://travis-ci.com/github/SeinopSys/react-themeable) [![Coverage](https://img.shields.io/codecov/c/github/seinopsys/react-themeable/master.svg?style=flat-square)](https://codecov.io/github/SeinopSys/react-themeable) [![npm](https://img.shields.io/npm/v/@seinopsys-forks/react-themeable.svg?style=flat-square)](https://www.npmjs.com/package/@seinopsys-forks/react-themeable)
+[![Build Status](https://img.shields.io/travis/seinopsys/react-themeable/main.svg?style=flat-square)](https://travis-ci.com/github/SeinopSys/react-themeable) [![Coverage](https://img.shields.io/codecov/c/github/seinopsys/react-themeable/master.svg?style=flat-square)](https://codecov.io/github/SeinopSys/react-themeable) [![npm](https://img.shields.io/npm/v/@seinopsys-forks/react-themeable.svg?style=flat-square)](https://www.npmjs.com/package/@seinopsys-forks/react-themeable)
 
 # @seinopsys-forks/react-themeable
 
